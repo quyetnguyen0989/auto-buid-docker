@@ -1,8 +1,4 @@
 # Hướng dẫn tự build một Docker image Caddy trên Alpine
-
-[Link đến slide trình bày](http://slides.com/minhcuong/caddyalpine)
-
-Khi viết Dockerfile tôi đã tham khảo [YobaSystems/Alpine-Caddy](https://github.com/yobasystems/alpine-caddy/blob/master/alpine-caddy/Dockerfile)
 # Nghịch thử
 
 # Viết script để tự động hoá docker build, docker run
